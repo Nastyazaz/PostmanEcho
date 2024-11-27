@@ -10,7 +10,6 @@ public class PostmanEchoTest {
 
     @Test
     void shouldReturnDemoAccounts() {
-// Given - When - Then
 // Предусловия
         given()
                 .baseUri("https://postman-echo.com")
